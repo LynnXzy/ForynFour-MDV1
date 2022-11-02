@@ -22,11 +22,11 @@ global.web = 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ' //ubah jadi 
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.digi = '60149431385'
+global.maxis = '601127648052'
+global.gopay = '+0'
+global.shopay = '+0'
+global.umobile = '60189830350'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
