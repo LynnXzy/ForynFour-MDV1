@@ -3,22 +3,22 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['60189830350'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['60189830350']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'Lann Ofc'
+global.noown = '60189830350'
+global.namebot = 'Lynn-Md'
+global.nobot = '60149431385'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'https://instagram.com/botzlynx'
+global.github = 'https://github.com/LynnXzy'
+global.gc = 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
+global.web = 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = '𝑳𝒚𝒏𝒏-𝑴𝒅'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '𝑳𝒚𝒏𝒏-𝑴𝒅 𝑩𝒐𝒕𝒛 𝑾𝒂 ゑ'
+global.wm3 = '𝑳𝒚𝒏𝒏-𝑴𝒅 | 𝑩𝒐𝒕𝒛 𝑾𝒂 ゑ'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -87,7 +87,9 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Jarot
 ┃⫹⫺ Kanna
 ┃⫹⫺ Fokusid
-┃
+┃⫹⫺ Exc
+┃⫹⫺ TioXd
+┃⫹⫺ Andrii
 ┗━━══┅┅══━━━✦`
         
 // HIASAN MENU LAINNYA 
@@ -104,8 +106,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = '𝑳𝒚𝒏𝒏-𝑴𝒅'
+global.author = '𝑩𝒐𝒕𝒛 𝑾𝒂 ゑ'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
